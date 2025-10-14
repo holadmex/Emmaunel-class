@@ -1,0 +1,9 @@
+New dev branch changes
+
+vi new changes, 
+press 'I' to enter insert mode,
+Once you're done with your changes,
+Press 'ECS' to leave insert mode
+Press ':x' or ':wq' to save and quit.
+
+In case where you want to exit without saving your changes ':q!'
